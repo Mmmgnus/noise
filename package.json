@@ -4,7 +4,7 @@
   "description": "This script creates a stylesheet with only one CSS rule in it — `.noise` — the rule adds a noisy background image.",
   "main": "noise.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
