@@ -1,5 +1,5 @@
 {
-  "name": "@mfredlundh/noise",
+  "name": "@frdh/noise",
   "version": "1.0.1",
   "description": "This script creates a stylesheet with only one CSS rule in it — `.noise` — the rule adds a noisy background image.",
   "main": "noise.js",
